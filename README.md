@@ -235,25 +235,6 @@ This project was developed for **Smart India Hackathon 2025** with focus on:
 - 📊 **Advanced ML**: Deep learning and neural networks
 - 🌍 **Multi-language Support**: Global accessibility
 
-## 📞 Contact & Support
-
-<div align="center">
-
-**🏆 Built for SIH 2025 - Smart India Hackathon**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/ShreeGattani/Sih_2025_main-project-)
-[![Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=rocket)](http://localhost:5000)
-
-**Made with ❤️ by Team RockGuard**
-
-*Transforming Mining Safety Through AI Innovation*
-
-</div>
-
----
-
-<div align="center">
-
 **⭐ Star this repository if you found it helpful!**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=ShreeGattani%2FSih_2025_main-project-&label=Visitors&countColor=%2337d67a&style=for-the-badge)
